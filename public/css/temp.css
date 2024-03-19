@@ -1,0 +1,34 @@
+body {
+  background: #f2f2f2;
+}
+
+/* temporary code  */
+.small {
+  width: 150px;
+  height: 150px;
+}
+
+.font1 {
+  font-family: Gayaltalic;
+  font-size: 50px;
+}
+
+.font2 {
+  font-family: Poppins;
+  font-size: 50px;
+}
+
+.font3 {
+  font-family: Poppins-bold;
+  font-size: 50px;
+}
+
+.font4 {
+  font-family: Lunema;
+  font-size: 50px;
+}
+
+.font5 {
+  font-family: Lunema-bold;
+  font-size: 50px;
+}

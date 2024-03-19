@@ -1,0 +1,34 @@
+pages:
+1 home
+2 about
+3 contact
+4 connect
+5 admin
+6 admin login
+7 projects
+
+assets:
+1 logo --------------- done
+2 main font --------------- done
+3 heading font --------------- done
+4 profile image
+5 glowing svg
+6 song --------------- done
+7 favicon --------------- done
+
+boo logo bg remove
+button design
+music icon
+
+----- also select how button looks and animate from uiverse
+
+
+elements:
+1 parallel X effect
+2 music player
+3 zoom animation on reload
+4 profile picture background blur effect
+5 marque animation
+6 confetti animation
+7 custom cursor
+8 color changing svg(s)

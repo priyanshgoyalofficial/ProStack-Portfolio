@@ -1,0 +1,93 @@
+main {
+  height: 100vh;
+  width: 100vw;
+  background-color: #f2f2f2;
+}
+
+.heading-div {
+  /* background: rgb(76, 0, 255, .5); */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.admin-heading {
+  font-family: Lunema;
+  font-size: 100px;
+  font-weight: 400;
+  line-height: 80px;
+  /* color: red; */
+}
+
+.admin-heading-span {
+  color: red;
+  font-family: Lunema-bold;
+}
+
+.eye-logo {
+  width: 150px;
+  height: 150px;
+}
+
+/* .eye-logo:hover {
+  filter: drop-shadow(0px 10px 5px rgb(160, 3, 3));
+} */
+
+.container {
+  width: 60%;
+  margin: 1rem auto;
+  /* background-color: yellow; */
+  border: 10px dotted black;
+  padding: 1rem;
+  /* background: rebeccapurple; */
+}
+
+/* .container:hover .admin-heading {
+  background: lightpink;
+} */
+
+.login-div {
+  /* background: violet; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+}
+
+.labels {
+  margin-left: 4rem;
+  text-transform: uppercase;
+  font-family: Poppins-bold;
+  font-size: 30px;
+}
+
+.inputs {
+  margin: auto;
+  width: 90%;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 2em;
+  padding: 1rem 2rem;
+  font-size: 20px;
+  font-family: Poppins;
+}
+
+.login-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.admin-login-button {
+  padding: 1rem;
+  font-family: Poppins-bold;
+  font-size: 20px;
+  width: 150px;
+  margin: 3rem;
+  border-radius: 2em;
+  background: white;
+  border: 1px solid black;
+  cursor: pointer;
+}

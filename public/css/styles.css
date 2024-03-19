@@ -1,0 +1,36 @@
+@font-face {
+  font-family: Gayaltalic;
+  src: url(../font/GayaItalic-Web.woff);
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(../font/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: Poppins-bold;
+  src: url(../font/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Lunema;
+  src: url(../font/Lunema-Regular.otf);
+}
+
+@font-face {
+  font-family: Lunema-bold;
+  src: url(../font/Lunema-Bold.otf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background: rgba(0, 255, 0, 0.325);
+  outline: 1px solid rgba(255, 42, 0, 0.736); */
+}
+
+body {
+  font-family: Poppins;
+}
